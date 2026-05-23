@@ -54,7 +54,7 @@ Abc
 ## Contact
 
 * Email: [jagtapritik8@gmail.com](mailto:jagtapritik8@gmail.com)
-* LinkedIn: https://linkedin.com/in/ritik-jagtap-link
+* LinkedIn: https://linkedin.com/in/ritik-jagtap11
 * GitHub: https://github.com/Ritikjagtap11
 
 ---
