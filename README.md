@@ -1,56 +1,81 @@
 # Hi, I'm Ritik Jagtap
 
-Computer Engineering student passionate about creating web apps and turning simple ideas into useful digital tools.
+Computer Engineering graduate passionate about creating responsive web applications and turning simple ideas into useful digital tools. I enjoy building responsive and user-friendly applications using React.js and the MERN stack.
 
 ---
 
 ## Tech Stack
 
-**Languages** - 
-C · Java · JavaScript · python
+**Languages** -
+C · Java · JavaScript · Python
 
-**Frontend** - 
-HTML · CSS · JavaScript · React.js · Tailwind / Bootstrap
+**Frontend** -
+HTML · CSS · JavaScript · React.js · Tailwind · Bootstrap · Responsive Web Design
 
-**Backend** - 
+**Backend** -
 Node.js · Express.js · REST APIs
 
-**Databases** - 
-MongoDB · MySQL
+**Databases** -
+MongoDB · MySQL · Firebase
 
-**Developer Tools** - 
-Git · VS Code · Chrome DevTools
+**Developer Tools** -
+Git · GitHub · VS Code · Chrome DevTools · Vite
 
 ---
 
 ## Projects
 
-### 1. Integrity - Ingredient Analyser
+### 1. Nexora
+
+AI-powered document and knowledge application
+
+* React + Tailwind CSS frontend
+* FastAPI backend with MongoDB
+* LLM-based document processing and retrieval
+* Gemini and Ollama integration
+
+---
+
+### 2. Integrity - Ingredient Analyser
 
 Analyse packaged food ingredients with AI
 
 * Image upload + ingredient extraction
-* Risk scoring + breakdown
+* Risk scoring + ingredient breakdown
 * Clean, readable results UI
 
-🔗 https://aiintegrity.onrender.com
-🔗 https://github.com/Ritikjagtap11/Integrity
+🔗 Live Demo: [https://aiintegrity.onrender.com](https://aiintegrity.onrender.com/)
+🔗 Github: https://github.com/Ritikjagtap11/Integrity
 
 ---
 
-<!-- ### 2. Abc
+### 3. Wanderlust - Feel at Home
 
-Abc
+Full-stack property listing web application
 
-* Abc
-* Abc
-* Abc
+* Property listing creation, browsing and management
+* Authentication + CRUD operations
+* Image uploads + location mapping
+* Responsive UI with EJS and Bootstrap
 
-🔗 https://Abc.onrender.com
-🔗 https://github.com/Ritikjagtap11/Abc
+🔗 Live Demo: [https://staynest-ame7.onrender.com/listings](https://staynest-ame7.onrender.com/listings)
+🔗 Github: https://github.com/Ritikjagtap11/Wanderlust
 
 ---
--->
+
+### 4. Tradium
+
+MERN-based trading and investment platform
+
+* React-based frontend and dashboard
+* Stock watchlist, holdings and order management
+* Data visualization with interactive charts
+* REST APIs with Node.js and Express.js
+
+🔗 Github: https://github.com/Ritikjagtap11/Tradium
+
+---
+
 ## Contact
 
 * Email: [jagtapritik8@gmail.com](mailto:jagtapritik8@gmail.com)
