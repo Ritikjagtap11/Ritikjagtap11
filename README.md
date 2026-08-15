@@ -34,6 +34,8 @@ AI-powered document and knowledge application
 * LLM-based document processing and retrieval
 * Gemini and Ollama integration
 
+🔗 Github: https://github.com/Ritikjagtap11/Nexora
+
 ---
 
 ### 2. Integrity - Ingredient Analyser
